@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Pokémon Showdown
 ========================================================================
 
@@ -148,3 +149,9 @@ Contributors
 - Robin Vandenbrande [Quinella] - Development
 - Samuel Teo [Yilx] - Art (main background)
 - Vivian Zou [Vtas] - Art (alternate main background)
+=======
+DPPtServ2
+=========
+
+Stuff
+>>>>>>> 2015199f08412403ffd5755191bb652e26217ebf
